@@ -22,7 +22,7 @@
 > * HTML5 / CSS3
 > * JavaScript（Three.js）
 > * Blender（キャラクターや背景などの3Dモデル作成）
-> * 生成AI（コードのデバッグや、Blenderの操作方法のアドバイスに活用）
+> * 生成AI（コードの作成に活用。）
 > 
 > 
 
